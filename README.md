@@ -1,2 +1,17 @@
 # dogs-Vs-cats-AI-
-A simple ai to differentiate dogs and cats 
+A simple AI to differentiate dogs and cats 
+
+
+
+very simple python program for differentiating dogs and cats images
+
+
+*still has some errors not fully accurate will be updated later
+
+
+Eeman Majumder©
+github-https://github.com/Eeman1113
+email-eeman.majumder@gmail.com
+
+
+
