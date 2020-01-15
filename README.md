@@ -11,7 +11,8 @@ very simple python program for differentiating dogs and cats images
 
 Eeman Majumder©
 github-https://github.com/Eeman1113
-email-eeman.majumder@gmail.com
+
+email- eeman.majumder@gmail.com
 
 
 
