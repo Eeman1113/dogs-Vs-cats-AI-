@@ -9,6 +9,11 @@ very simple python program for differentiating dogs and cats images
 *still has some errors not fully accurate will be updated later
 
 
+import theano
+import keros
+
+
+
 Eeman Majumder©
 github-https://github.com/Eeman1113
 
