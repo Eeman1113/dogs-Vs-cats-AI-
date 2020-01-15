@@ -10,9 +10,11 @@ very simple python program for differentiating dogs and cats images
 
 
 import theano
+
+
 import keros
 
-
+import PIL
 
 Eeman Majumder©
 github-https://github.com/Eeman1113
